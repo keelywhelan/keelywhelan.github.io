@@ -7,4 +7,4 @@ Currently pursuing my Masters in Computer Science at University of California, S
 
 ## Check me out:
 
-- [Resume](https://github.com/keelywhelan/temp/blob/main/Keely_Whelan_resume_oct_21_cse.pdf)
+- [Resume](https://drive.google.com/file/d/1k96aPnAzh-ydD3C2_z6GTTF-2DYmXsQ3/view?usp=sharing)
