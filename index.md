@@ -3,10 +3,9 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Currently pursuing my Masters in Computer Science at University of California, Santa Cruz. Please feel free to check out my resume or github. Intrested in all things in software dev
 
-## Current Interests and Projects:
+## Check me out!:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- [GitHub Pages](http://keelywhelan.github.io)
+- [Resume](https://github.com/keelywhelan/temp/blob/main/Keely_Whelan_resume_oct_21_cse.pdf)
