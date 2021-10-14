@@ -2,4 +2,4 @@
 personal website.
 
 
-## Credit template to 
+## template by https://github.com/laderast/academic_site_workshop 
