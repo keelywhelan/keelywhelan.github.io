@@ -10,4 +10,4 @@ Hi, I'm a graduate student of Computer Science at the University of California, 
 
 ## Check me out:
 
-- [Resume](Keely Whelan resume.pdf)
+- [Resume](https://drive.google.com/file/d/1i0ZkHlzd-a73dXssj6sCXNQoYzacoHzm/view?usp=sharing)
